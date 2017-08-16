@@ -16,7 +16,7 @@ public class JavaStringReverse {
         System.out.println(A.equals(reverse(A))? "Yes" : "No");
         }
         
-    
+
     
 	}    
 	
